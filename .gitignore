@@ -1,0 +1,5 @@
+__pycache__
+*.pem
+*.pkl
+.vscode
+.DS_Store
